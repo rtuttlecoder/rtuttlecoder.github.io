@@ -1,0 +1,330 @@
+[{
+    "name": "State of Idaho",
+    "url": "https://www.idaho.gov",
+    "image": "/img/portfolio/wdd/idaho.png",
+    "year": "2019",
+    "tech": "Node, Jekyll, JavaScript, Vue"
+},
+{
+    "name": "a'Tavola",
+    "url": "https://www.atavolaboise.com",
+    "image": "/img/portfolio/wdd/atavola.png",
+    "year": "2016",
+    "tech": "Joomla, PHP, MySQL, jQuery"
+},
+{
+    "name": "Restore Wellness",
+    "url": "#",
+    "image": "/img/portfolio/wdd/restore.png",
+    "year": "2016",
+    "tech": "HTML5, CSS, MySQL, PHP, WordPress"
+},
+{
+    "name": "SoccerOne",
+    "url": "https://soccerone.com",
+    "image": "/img/portfolio/wdd/s1.png",
+    "year": "2016",
+    "tech": "Authorize.net, Google Anaylytics, HTML5, CSS, PHP, jQuery, MySQL, SEO"
+},
+{
+    "name": "Stapley Engineering",
+    "url": "https://stapley.net",
+    "image": "/img/portfolio/wdd/stapley.png",
+    "year": "2015",
+    "tech": "MySQL, WordPress, PHP"
+},
+{
+    "name": "Asphalt Maintenance of Idaho",
+    "url": "https://asphaltmaintenanceidaho.com",
+    "image": "/img/portfolio/wdd/asphalt.png",
+    "year": "2015",
+    "tech": "Javascript, Joomla, MySQL, PHP, WordPress"
+},
+{
+    "name": "Evergreen Sprinkler Company",
+    "url": "https://evergreensprinkler.com",
+    "image": "/img/portfolio/wdd/evergreen.png",
+    "year": "2016",
+    "tech": "Google Anayltics, jQuery, MySQL, PHP, SEO, WordPress"
+},
+{
+    "name": "Zelus Recovery",
+    "url": "https://zelusrecovery.com",
+    "image": "/img/portfolio/wdd/zelus.png",
+    "year": "2016",
+    "tech": "HTML5, CSS, PHP, Javascript, WordPress"
+},
+{
+    "name": "Amy Chattin",
+    "url": "#",
+    "image": "/img/portfolio/wdd/amy.png",
+    "year": "2015",
+    "tech": "SEO"
+},
+{
+    "name": "Parrots 'N' Stuff",
+    "url": "https://parrotsnstuff.com",
+    "image": "/img/portfolio/wdd/parrots.png",
+    "year": "2015",
+    "tech": "HTML5, CSS, PHP, jQuery, MySQL, SEO, WordPress"
+},
+{
+    "name": "Carver, Thornton & Young",
+    "url": "https://ctystudio.com",
+    "image": "/img/portfolio/wdd/cty.png",
+    "year": "2015",
+    "tech": "WordPress, PHP, jQuery, MySQL, SEO"
+},
+{
+    "name": "Luxury Homes of Idaho",
+    "url": "https://luxuryhomesofidaho.com",
+    "image": "/img/portfolio/wdd/luxury.png",
+    "year": "2016",
+    "tech": "WordPress"
+},
+{
+    "name": "Zip My Dress",
+    "url": "https://zipmydress.com",
+    "image": "/img/portfolio/wdd/zip.png",
+    "year": "2015",
+    "tech": "WooCommerce, HTML5, CSS, PHP, jQuery, MySQL, SEO, WordPress"
+},
+{
+    "name": "Northwind Computers",
+    "url": "https://northwind.us",
+    "image": "/img/portfolio/wdd/northwind.png",
+    "year": "2016",
+    "tech": "WordPress, PHP, MySQL, jQuery"
+},
+{
+    "name": "FarWest Garden Center",
+    "url": "https://farwestgardencenter.com",
+    "image": "/img/portfolio/wdd/farwest.png",
+    "year": "2016",
+    "tech": "Javascript, HTML5, CSS, PHP, jQuery, MySQL, WordPress"
+},
+{
+    "name": "Zealandia Designs",
+    "url": "https://zealandiadesigns.com",
+    "image": "/img/portfolio/wdd/zealandia.png",
+    "year": "2015",
+    "tech": "jQuery, MySQL, PHP, ZenCart"
+},
+{
+    "name": "Canoga Park | West Hills Chamber of Commerece",
+    "url": "https://cpwhchamber.com",
+    "image": "/img/portfolio/wdd/cpwh.png",
+    "year": "2016",
+    "tech": "WordPress, MySQL, PHP, jQuery"
+},
+{
+    "name": "Agave Partners",
+    "url": "https://agavepartners.com",
+    "image": "/img/portfolio/wdd/agave.png",
+    "year": "2015",
+    "tech": "Google Anaylytics, HTML5, CSS, PHP, jQuery, MySQL, SEO, WordPress"
+},
+{
+    "name": "VIE Gear",
+    "url": "https://viegear.com",
+    "image": "/img/portfolio/wdd/vie.png",
+    "year": "2016",
+    "tech": "Google Anaylytics, HTML5, CSS, PHP, jQuery, MySQL, SEO, Open Cart, Flash"
+},
+{
+    "name": "Landmark Indusctrial",
+    "url": "https://landmarkindustrial.com",
+    "image": "/img/portfolio/wdd/landmark.png",
+    "year": "2015",
+    "tech": "PHP, jQuery, MySQL, SEO, WordPress"
+},
+{
+    "name": "SCI Treasurer Valley Chapter",
+    "url": "https://scitrasurervalley.com",
+    "image": "/img/portfolio/wdd/sci.png",
+    "year": "2016",
+    "tech": "Google Anaylytics, HTML5, CSS, PHP, jQuery, MySQL, SEO, WordPress, WooCommerce"
+},
+{
+    "name": "Ironcove Solutions - Blog",
+    "url": "https://ironcovesolutions.com",
+    "image": "/img/portfolio/wdd/ironcove.png",
+    "year": "2015",
+    "tech": "HTML5, CSS, PHP, WordPress"
+},
+{
+    "name": "Strategic Media 21",
+    "url": "https://#",
+    "image": "/img/portfolio/wdd/strag21.png",
+    "year": "2015",
+    "tech": "Google Anaylytics, PHP, Javascript"
+},
+{
+    "name": "WR Gann Company",
+    "url": "https://wrgann.com",
+    "image": "/img/portfolio/wdd/gann.png",
+    "year": "2016",
+    "tech": "PHP, jQuery, MySQL, SEO, WordPress"
+},
+{
+    "name": "Gem State Roofing",
+    "url": "https://gemstateroofing.com",
+    "image": "/img/portfolio/wdd/gemstate.png",
+    "year": "2015",
+    "tech": "PHP, jQuery, MySQL, WordPress"
+},
+{
+    "name": "Karen Toerne, PLLC",
+    "url": "https://karentoerne.com",
+    "image": "/img/portfolio/wdd/karen.png",
+    "year": "2016",
+    "tech": "Google Anaylytics, HTML5, CSS, PHP, jQuery, MySQL, SEO, WordPress"
+},
+{
+    "name": "Live, Laugh, Love",
+    "url": "https://livelaughlove.com",
+    "image": "/img/portfolio/wdd/lll.png",
+    "year": "2016",
+    "tech": "Authorize.net, Google Anaylytics, HTML5, CSS, PHP, jQuery, MySQL, SEO, Joomla"
+},
+{
+    "name": "Stewart Gallery",
+    "url": "https://stewartgallery.com",
+    "image": "/img/portfolio/wdd/stewart.png",
+    "year": "2015",
+    "tech": "PHP, MySQL, WordPress"
+},
+{
+    "name": "Gardens of the Wild Wild West",
+    "url": "https://gardensofthewildwildwest.com",
+    "image": "/img/portfolio/wdd/gardens.png",
+    "year": "2016",
+    "tech": "Google Anaylytics, HTML5, CSS, PHP, jQuery, MySQL, SEO, WordPress, WooCommerce"
+},
+{
+    "name": "Dolly's Doggie Salon",
+    "url": "https://dollysdoggiesalon.com",
+    "image": "/img/portfolio/wdd/dolly.png",
+    "year": "2016",
+    "tech": "Google Anaylytics, HTML5, CSS, PHP, jQuery, MySQL, SEO, WordPress"
+},
+{
+    "name": "Advisor Is In",
+    "url": "https://advisorisin.com",
+    "image": "/img/portfolio/wdd/advisor.png",
+    "year": "2016",
+    "tech": "Google Anaylytics, HTML5, CSS, PHP, jQuery, MySQL, SEO, WordPress, WooCommerce"
+},
+{
+    "name": "Renewal Home",
+    "url": "https://renewalhome.com",
+    "image": "/img/portfolio/wdd/renewal.png",
+    "year": "2015",
+    "tech": "PHP, MySQL, WordPress"
+},
+{
+    "name": "Postage Ink Cartridges",
+    "url": "https://#",
+    "image": "/img/portfolio/wdd/postage.png",
+    "year": "2015",
+    "tech": "Authorize.net, PHP"
+},
+{
+    "name": "Idaho Helicopters, Inc.",
+    "url": "https://idahohelicopters.com",
+    "image": "/img/portfolio/wdd/heli.png",
+    "year": "2016",
+    "tech": "WordPress"
+},
+{
+    "name": "J. Crist Art Services",
+    "url": "https://jcrist.com",
+    "image": "/img/portfolio/wdd/jcrist.png",
+    "year": "2016",
+    "tech": "PHP"
+},
+{
+    "name": "Eidam & Associates",
+    "url": "https://eidamassoc.com",
+    "image": "/img/portfolio/wdd/eidam.png",
+    "year": "2016",
+    "tech": "PHP, jQuery, MySQL, SEO, WordPress"
+},
+{
+    "name": "Quality Art",
+    "url": "https://qualityart.com",
+    "image": "/img/portfolio/wdd/qart.png",
+    "year": "2016",
+    "tech": "Authorize.net, Google Anaylytics, HTML5, CSS, PHP, jQuery, MySQL, SEO, ZenCart"
+},
+{
+    "name": "Cottage Gardeners, Inc.",
+    "url": "https://cottagegardeners.com",
+    "image": "/img/portfolio/wdd/cottage.png",
+    "year": "2016",
+    "tech": "HTML5, CSS, PHP, Magento"
+},
+{
+    "name": "Knobs & Pulls",
+    "url": "https://#.com",
+    "image": "/img/portfolio/wdd/knobs.png",
+    "year": "2016",
+    "tech": "HTML5, WooCommerce, WordPress"
+},
+{
+    "name": "Total Merchant Services",
+    "url": "https://#",
+    "image": "/img/portfolio/wdd/tms.png",
+    "year": "2015",
+    "tech": "MySQL, osCommerce, PHP"
+},
+{
+    "name": "Buck's Bags",
+    "url": "https://bucksbags.com",
+    "image": "/img/portfolio/wdd/bucks.png",
+    "year": "2016",
+    "tech": "Authorize.net, Magento, MySQL, PHP"
+},
+{
+    "name": "Chadis",
+    "url": "https://#",
+    "image": "/img/portfolio/wdd/chadis.png",
+    "year": "2016",
+    "tech": "HTML5, CSS, PHP, Drupal"
+},
+{
+    "name": "Weathertight Roofing",
+    "url": "https://weathertightroofing.com",
+    "image": "/img/portfolio/wdd/weathertight.png",
+    "year": "2016",
+    "tech": "Google Analytics, jQuery, MySQL, PHP, SEO, WordPress"
+},
+{
+    "name": "Clark Development",
+    "url": "https://#",
+    "image": "/img/portfolio/wdd/clark.png",
+    "year": "2015",
+    "tech": "Google Analytics, jQuery, MySQL, PHP, SEO, WordPress"
+},
+{
+    "name": "2 Ears 2 Learn",
+    "url": "https://2ears2learn.org",
+    "image": "/img/portfolio/wdd/2ears.png",
+    "year": "2015",
+    "tech": "jQuery, MySQL, PHP, WordPress"
+},
+{
+    "name": "Idaho Behavioral Health",
+    "url": "https://#",
+    "image": "/img/portfolio/wdd/ibh.png",
+    "year": "2015",
+    "tech": "jQuery, MySQL, PHP, SEO, WordPress"
+},
+{
+    "name": "DK Audio Post",
+    "url": "https://dkaudiopost.com",
+    "image": "/img/portfolio/wdd/dkaudio.png",
+    "year": "2015",
+    "tech": "Google Analytics, jQuery, MySQL, PHP, SEO, WordPress"
+}
+]

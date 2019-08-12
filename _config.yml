@@ -1,0 +1,17 @@
+# Site settings
+title: "Richard Tuttle - Coder, Calligrapher, Educator"
+email: "richardtuttle@me.com"
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" 
+url: ""
+post_url: "/blog"
+
+twitter_username: "rtuttlecoder"
+github_username: "rtuttlecoder"
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-assets
+  - jekyll-redirect-from

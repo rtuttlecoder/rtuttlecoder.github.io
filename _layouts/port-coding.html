@@ -1,0 +1,43 @@
+{% include port-header.html %}
+{% include nav.html %}
+<div class="container">
+    <div class="row top">
+        <div class="col">
+            <h1 class="display-4">{{ page.cat }} Portfolio</h1>
+            {{ content }}
+        </div>
+    </div>
+    <!-- div class="row">
+        <div id="portSlider" class="carousel slide col" data-ride="carousel">
+            <div class="carousel-inner">
+                {%- for slide in site.data.ports-code -%}
+                    <div 
+                    {% if forloop.first == true %} 
+                        class="carousel-item active" 
+                    {% else %} 
+                        class="carousel-item" 
+                    {% endif %}
+                    >
+                        <img src="{{ slide.image }}" alt="{{ slide.name }}" class="d-block">
+                        <div class="carousel-caption bg-dark d-none d-md-block">
+                            <h5>{{ slide.name }}</h5>
+                            <hr>
+                            <em>completed:</em> {{ slide.year }}
+                        </div>
+                    </div>
+                {%- endfor -%}
+            </div>
+            <a href="#portSlider" role="button" data-slide="prev" class="carousel-control-prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a href="#portSlider" role="button" data-slide="next" class="carousel-control-next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+    </div -->
+</div>
+{% include scripts.html %}
+{% include footer.html %}
+</body>
+</html>
