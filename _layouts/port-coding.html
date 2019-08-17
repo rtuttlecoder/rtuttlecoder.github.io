@@ -7,7 +7,7 @@
             {{ content }}
         </div>
     </div>
-    <!-- div class="row">
+    <div class="row">
         <div id="portSlider" class="carousel slide col" data-ride="carousel">
             <div class="carousel-inner">
                 {%- for slide in site.data.ports-code -%}
@@ -22,6 +22,8 @@
                         <div class="carousel-caption bg-dark d-none d-md-block">
                             <h5>{{ slide.name }}</h5>
                             <hr>
+                            <em>Technologies used:</em><br>
+                            {{ slide.tech }}<br>
                             <em>completed:</em> {{ slide.year }}
                         </div>
                     </div>
@@ -35,7 +37,8 @@
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
             </a>
-    </div -->
+        </div>
+    </div>
 </div>
 {% include scripts.html %}
 {% include footer.html %}

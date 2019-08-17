@@ -1,3 +1,6 @@
 [{
-    
+    "image": "/img/portfolio/coding/firealerts.png",
+    "name": "FireAlerts Dispatcher Dashboard",
+    "year": "2016",
+    "tech": "PHP, MySQLi, jQuery, Geolocation, Google Maps, JavaScript"
 }]
