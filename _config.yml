@@ -1,9 +1,9 @@
 # Site settings
-title: "Richard Tuttle - Coder, Calligrapher, Educator"
+title: "Richard Tuttle - Coder, Educator, Calligrapher"
 email: "richardtuttle@me.com"
-description: "A full-stack engineer with over 20 years of professional experience."
+description: "A full-stack web developer with over 20 years of professional experience."
 baseurl: "" 
-url: "rtuttle.me"
+url: "rtuttlecoder.github.io"
 post_url: "/blog"
 encoding: UTF-8
 
