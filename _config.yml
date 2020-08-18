@@ -17,3 +17,4 @@ plugins:
   - jekyll-assets
   - jekyll-redirect-from
   - jekyll-seo-tag
+theme: jekyll-theme-hacker
