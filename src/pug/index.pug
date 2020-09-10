@@ -1,0 +1,263 @@
+doctype html
+html(lang='en')
+    head
+        meta(charset='utf-8')
+        meta(name='viewport', content='width=device-width, initial-scale=1, shrink-to-fit=no')
+        meta(name='description', content='')
+        meta(name='author', content='')
+        title Richard Tuttle | Web Developer, Front- & Back-end Developer, WordPress Developer
+        link(rel='icon', type='image/x-icon', href='assets/img/favicon.ico')
+        script(src='https://use.fontawesome.com/releases/v5.13.0/js/all.js', crossorigin='anonymous')
+        link(href='https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700', rel='stylesheet', type='text/css')
+        link(href='https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i', rel='stylesheet', type='text/css')
+        link(href='https://unpkg.com/flickity@2/dist/flickity.min.css', rel='stylesheet')
+        link(href='css/styles.css', rel='stylesheet')
+    body#page-top
+        // Navigation
+        nav#sideNav.navbar.navbar-expand-lg.navbar-dark.bg-primary.fixed-top
+            a.navbar-brand.js-scroll-trigger(href='#page-top')
+                span.d-block.d-lg-none Richard Tuttle
+                span.d-none.d-lg-block
+                    img.img-fluid.img-profile.rounded-circle.mx-auto.mb-2(src='assets/img/profile.jpg', alt='richard tuttle web developer')
+            button.navbar-toggler(type='button', data-toggle='collapse', data-target='#navbarSupportedContent', aria-controls='navbarSupportedContent', aria-expanded='false', aria-label='Toggle navigation')
+                span.navbar-toggler-icon
+            #navbarSupportedContent.collapse.navbar-collapse
+                ul.navbar-nav
+                    li.nav-item
+                        a.nav-link.js-scroll-trigger(href='#about') About
+                    li.nav-item
+                        a.nav-link.js-scroll-trigger(href='#experience') Experience
+                    li.nav-item
+                        a.nav-link.js-scroll-trigger(href='#education') Education
+                    li.nav-item
+                        a.nav-link.js-scroll-trigger(href='#skills') Skills
+                    li.nav-item
+                        a.nav-link.js-scroll-trigger(href='#orgs') Organizations
+                    li.nav-item
+                        a.nav-link.js-scroll-trigger(href='#portfolio') Portfolio
+                    li.nav-item
+                        a.nav-link(href='/assets/resume.pdf', target='_blank') Download Résumé
+
+        // Page Content
+        .container-fluid.p-0
+
+            // About
+            section#about.resume-section
+                .resume-section-content
+                    h1.mb-0
+                        | Richard 
+                        span.text-primary Tuttle
+                    .subheading.mb-5
+                        | 8856 W Desert Edge Dr · Boise, ID 83709 · (208) 850-9424 · 
+                        a(href='mailto:richardtuttle@me.com') richardtuttle@me.com
+                    p.lead.mb-5
+                        | I am a technologically creative person possessing the ability to diagnose and solve problems in a technology-driven environment who also loves developing impactful web experiences; and, I am a team player who can deliver world-class, user-centered products and services.
+                    .social-icons
+                        a.social-icon(href='https://linkedin.com/in/richard-tuttle/', target='_blank')
+                            i.fab.fa-linkedin-in
+                        a.social-icon(href='https://github.com/rtuttlecoder/', target='_blank')
+                            i.fab.fa-github
+                        a.social-icon(href='https://twitter.com/rtuttlecoder/', target='_blank')
+                            i.fab.fa-twitter
+
+            hr.m-0
+
+            // Experience
+            section#experience.resume-section
+               .resume-section-content
+                    h2.mb-5 Experience
+
+                    .d-flex.flex-column.flex-md-row.justify-content-between.mb-5
+                        .flex-grow-1
+                            h3.mb-0 Front-end Web Developer
+                            .subheading.mb-3 NIC, Inc.
+                            ul
+                                li Assisted in the maintenance and enhancements of Idaho.gov
+                                li Customized Idaho's WordPress library of services
+                                li Built websites for customers based on Idaho templates
+                                li Maintained and updated Idaho website templates and documentation according to Idaho standards and latest information
+                                li Met with stakeholders to conceptualize and develop interactive content, generated concepts/mockups, gathered information and created websites based on customer needs
+                                li Trained/assisted customers in maintaining their own WordPress websites
+                                li Provided continued support for sites already launched via troubleshooting, bug fixes, instructional help, etc.
+                                li Assisted in user-interface design and testing of online applications and websites
+                                li Troubleshoot, debugged, and solved cross-browser issues
+                                li Leveraged tools for assessing ADA and usability compliance
+                                li Assisted with user research and usability testing efforts
+                                li Developed & built static sites utilizing templating frameworks
+                                li Contributed creatively to the growth of the company
+
+                        .flex-shrink-0
+                            span.text-primary 2017 - 2020
+
+                    .d-flex.flex-column.flex-md-row.justify-content-between.mb-5
+                        .flex-grow-1
+                            h3.mb-0 Senior Web Developer
+                            .subheading.mb-3 Northwind, Inc.
+                            ul
+                                li Built websites for B2C, B2B, and Nonprofit customers utilizing various platforms: WordPress, Joomla, Drupal, ZenCart, openCart, Magento, as well as custom developed/programmed sites
+                                li Provided continued support for customers via troubleshooting, bug fixes, instructional help, etc.
+                                li Aided in the corporation’s increase in profit margin by 38%
+
+                        .flex-shrink-0
+                            span.text-primary 2011 - 2017
+
+                    .d-flex.flex-column.flex-md-row.justify-content-between.mb-5
+                        .flex-grow-1
+                            h3.mb-0 Web/Software Developer
+                            .subheading.mb-3 Myers Enterprises, LLC
+                            ul
+                                li Handled client project/application consultations through SDLC
+                                li Custom web-based software programming utilizing PHP/Python backend
+                                li Worked with Design team to achieve business’ digital goals
+
+                        .flex-shrink-0
+                            span.text-primary 2007 - 2011
+
+            hr.m-0
+
+            // Education
+            section#education.resume-section
+                .resume-section-content
+                    h2.mb-5 Education & Certifications
+
+                    .d-flex.flex-column.flex-md-row.justify-content-between.mb-5
+                        .flex-grow-1
+                            h3.mb-0 Portland Community College
+                            .subheading.mb-3 Associates of Science - Computer Science
+ 
+                    .d-flex.flex-column.flex-md-row.justify-content-between
+                        .flex-grow-1
+                            h3.mb-0 Idaho Limited Occupational Specialist certification
+                            .subheading.mb-3 endorsed for Information/Communication Technology
+
+                    .d-flex.flex-column.flex-md-row.justify-content-between
+                        .flex-grow-1
+                            h3.mb-0 Certified "Google Analytics Advisor"
+                    
+                    .d-flex.flex-column.flex-md-row.justify-content-between
+                        .flex-grow-1
+                            h3.mb-0 Certified "Authorize.net Developer"
+                    
+            hr.m-0
+
+            // Skills
+            section#skills.resume-section
+                .resume-section-content
+                    h2.mb-5 Skills
+                    .subheading.mb-3 Programming Languages & Tools
+                    ul.list-inline.dev-icons
+                        li.list-inline-item
+                            i.fab.fa-html5
+                        li.list-inline-item
+                            i.fab.fa-css3-alt
+                        li.list-inline-item
+                            i.fab.fa-js-square
+                        li.list-inline-item
+                            i.fab.fa-vuejs
+                        li.list-inline-item
+                            i.fab.fa-git-square
+                        li.list-inline-item
+                            i.fab.fa-node-js
+                        li.list-inline-item
+                            i.fab.fa-sass
+                        li.list-inline-item
+                            i.fab.fa-joomla
+                        li.list-inline-item
+                            i.fab.fa-wordpress
+                        li.list-inline-item
+                            i.fab.fa-magento
+                        li.list-inline-item
+                            i.fab.fa-bootstrap
+                        li.list-inline-item
+                            i.fab.fa-npm
+                        li.list-inline-item
+                            i.fab.fa-java
+                        li.list-inline-item
+                            i.fab.fa-php
+                        li.list-inline-item
+                            i.fab.fa-python
+                    .subheading.mb-3 Workflow
+                    ul.fa-ul.mb-0
+                        li
+                            span.fa-li
+                                i.fas.fa-check
+                            | Remote Work
+
+                        li
+                            span.fa-li
+                                i.fas.fa-check
+                            | Mobile-First, Responsive Design
+                        li
+                            span.fa-li
+                                i.fas.fa-check
+                            | Cross Browser Testing & Debugging
+                        li
+                            span.fa-li
+                                i.fas.fa-check
+                            | Cross Functional Teams
+                        li
+                            span.fa-li
+                                i.fas.fa-check
+                            | Agile Development & Scrum
+
+                        li
+                            span.fa-li
+                                i.fas.fa-check
+                            | ADA/508 Compliancy
+
+            hr.m-0
+
+            // Organizations
+            section#orgs.resume-section
+                .resume-section-content
+                    h2.mb-5 Professional Organizations
+                    ul
+                        li World Organization of Webmasters
+                        li International Webmasters Association
+                        li Association of Internet Professionals
+                        li PDX PHP Group (co-founder) 
+                        li HTML Writers Guild
+                        li Linguistics Society of America
+                        li Inducted into the "Phi Alpha Theta" honor society
+
+            hr.m-0
+
+            // Portfolio
+            section#portfolio.resume-section
+                .resume-section-content
+                    h2.mb-5 Portfolio
+                    div.main-carousel(data-flickity='{"wrapAround":true,"groupCells":true,"autoPlay":true}')
+                        div.carousel-cell
+                            img(src="/assets/sites/idaho.png")
+                        div.carousel-cell
+                            img(src="/assets/sites/s1.png")
+                        div.carousel-cell
+                            img(src="/assets/sites/lll.png")
+                        div.carousel-cell
+                            img(src="/assets/sites/lands.png")
+                        div.carousel-cell
+                            img(src="/assets/sites/dolly.png")
+                        div.carousel-cell
+                            img(src="/assets/sites/luxury.png")
+                        div.carousel-cell
+                            img(src="/assets/sites/zelus.png")
+                        div.carousel-cell
+                            img(src="/assets/sites/restore.png")
+                        div.carousel-cell
+                            img(src="/assets/sites/weathertight.png")
+                        div.carousel-cell
+                            img(src="/assets/sites/farwest.png")
+                        div.carousel-cell
+                            img(src="/assets/sites/isb.png")
+                        div.carousel-cell
+                            img(src="/assets/sites/gann.png")
+                        div.carousel-cell
+                            img(src="/assets/sites/access.png")
+                        div.carousel-cell
+                            img(src="/assets/sites/webmaster.png")
+
+        script(src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js')
+        script(src='https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js')
+        script(src='https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js')
+        script(src='https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js')
+        script(src='js/scripts.js')
