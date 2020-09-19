@@ -1,4 +1,15 @@
+// const { default: Typed } = require("typed.js");
+
 (function ($) {
+    var options = {
+        strings: ['Web Developer', 'Full-stack Developer', 'Front-end Developer', 'WordPress Developer', 'Back-end Developer', 'PHP Developer'],
+        typeSpeed: 80,
+        startDelay: 80,
+        backSpeed: 80,
+        loop: true
+    };
+    var typed = new Typed('.whatami', options);
+
     "use strict"; // Start of use strict
 
     // Smooth scrolling using jQuery easing
