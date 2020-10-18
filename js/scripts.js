@@ -1,8 +1,6 @@
-// const { default: Typed } = require("typed.js");
-
 (function ($) {
     var options = {
-        strings: ['Web Developer', 'Full-stack Developer', 'Front-end Developer', 'WordPress Developer', 'Back-end Developer', 'PHP Developer'],
+        strings: ['Web Developer', 'Full-stack Developer', 'Front-end Developer', 'WordPress Developer', 'Back-end Developer', 'PHP Developer', 'Vue Developer'],
         typeSpeed: 80,
         startDelay: 80,
         backSpeed: 80,
@@ -10,7 +8,7 @@
     };
     var typed = new Typed('.whatami', options);
 
-    "use strict"; // Start of use strict
+    "use strict";
 
     $('[data-toggle="tooltip"]').tooltip();
 
@@ -47,4 +45,4 @@
     $("body").scrollspy({
         target: "#sideNav",
     });
-})(jQuery); // End of use strict
+})(jQuery);
