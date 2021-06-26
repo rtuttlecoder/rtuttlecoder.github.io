@@ -5,8 +5,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Playground of Projects</title>
+    <script src="https://unpkg.com/vue@next"></script>
 </head>
 <body>
-    <a href="/playground/vuemovie/">VueMovie Mobile App</a>
+    <div id="app">
+        <div class="projcard" v-for="p in projects" :key="p.index">
+            {{ p.name }}
+        </div>
+    </div>
+    <script>
+    import * as json from './projects';
+    export default {
+        data: () => ({
+            json
+        }),
+        mounted() {
+            console.log(this.json);
+        }
+    }
+    </script>
 </body>
 </html>
