@@ -1,6 +1,6 @@
 (function ($) {
     var options = {
-        strings: ['Senior Web Developer', 'Senior Full-stack Developer', 'Senior Front-end Developer', 'Senior WordPress Developer', 'Senior Back-end Developer', 'Senior PHP Developer', 'Senior Vue Developer'],
+        strings: ['Lead Senior Developer', 'Lead Senior Full-stack Developer', 'Lead Senior Front-end Developer', 'Senior WordPress Developer', 'Lead Senior Back-end Developer', 'Senior PHP Developer', 'Lead Senior Vue Developer'],
         typeSpeed: 80,
         startDelay: 80,
         backSpeed: 80,
